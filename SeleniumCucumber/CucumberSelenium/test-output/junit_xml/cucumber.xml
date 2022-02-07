@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0">
+    <testcase classname="Sign in feature" name="SIGNIN : ##0001: Sign In / Sign Out" time="0">
+        <skipped>
+            <![CDATA[Then User should see the role from the select role dropdown list............undefined
+And Enters a valid userid "cm"..............................................undefined
+And Enters a valid password "Password1*"....................................undefined
+And Click on Signin button..................................................undefined
+Then Check background Questions.............................................undefined
+Then validate login is successful...........................................undefined
+Then Check Important Notice Dialog..........................................undefined
+Then Dashboard menu item dispaly is display.................................undefined
+And Verify the signout button is visible....................................undefined
+And Clicks on signout to leave the Dashboard page...........................undefined
+Then Verifies the signout is successful.....................................undefined
+]]>
+        </skipped>
+    </testcase>
+    <testcase classname="Sign in feature" name="SIGNIN : ##0001: Sign In / Sign Out 2" time="0">
+        <skipped>
+            <![CDATA[Then User should see the role from the select role dropdown list............undefined
+And Enters a valid userid "cr"..............................................undefined
+And Enters a valid password "Password1*"....................................undefined
+And Click on Signin button..................................................undefined
+Then Check background Questions.............................................undefined
+Then validate login is successful...........................................undefined
+Then Check Important Notice Dialog..........................................undefined
+Then Dashboard menu item dispaly is display.................................undefined
+And Verify the signout button is visible....................................undefined
+And Clicks on signout to leave the Dashboard page...........................undefined
+Then Verifies the signout is successful.....................................undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
